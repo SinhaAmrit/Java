@@ -1,6 +1,6 @@
 /**
 * @author : Amrit Sinha
-* Date : 12 February,2020
+* Date : February 12,2020
 * GitHub : SinhaAmrit
 * Facebook : /codiizone
 * Instagram : @codiizone
