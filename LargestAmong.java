@@ -19,10 +19,10 @@ class LargestAmong{
 		System.out.println("Largest Number Is : "+a);
 	}
 	else if(b>c){
-		System.out.println("Largest Numbe Is : "+b);
+		System.out.println("Largest Number Is : "+b);
 	}
 	else{
-		System.out.println("Largest Numbe Is : "+c);
+		System.out.println("Largest Number Is : "+c);
 	}
 }
 }
