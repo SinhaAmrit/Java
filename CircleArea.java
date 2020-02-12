@@ -5,7 +5,7 @@
 * Facebook : /codiizone
 * Instagram : @codiizone
 * wesite : https://codiizone.blogspot.com/
-* Q 3> Java Program to Accept Radius And Print The Area Of The Circle
+* Q 4> Java Program to Accept Radius And Print The Area Of The Circle
 */
 import java.util.Scanner;
 //import java.lang.*;
