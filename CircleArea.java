@@ -8,7 +8,6 @@
 * Java Program to Accept Radius And Print The Area Of The Circle
 */
 import java.util.Scanner;
-//import java.lang.*;
 class CircleArea{
     public static void main(String ...args){
         System.out.println("Enter The Radius Of The Circle!");
