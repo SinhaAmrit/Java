@@ -14,6 +14,6 @@ class CircleArea{
 		System.out.println("Enter The Radius Of The Circle!");
 		Scanner kb=new Scanner(System.in);
 		int r=kb.nextInt();
-		System.out.println("Area Of The Circle Is "+(Math.PI*r*r)+" Units");
+		System.out.println("Area Of The Circle Is "+((float)Math.PI*r*r)+" Units");
 	}
 }
