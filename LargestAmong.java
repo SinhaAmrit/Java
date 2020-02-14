@@ -4,8 +4,8 @@
 * GitHub : SinhaAmrit
 * Facebook : /codiizone
 * Instagram : @codiizone
-* wesite : https://codiizone.blogspot.com/
-* Q 3> Java Program to Accept Three Numbers And Print Largest Among Them
+* website : https://codiizone.blogspot.com/
+* Java Program to Accept Three Numbers And Print Largest Among Them
 */
 import java.util.Scanner;
 class LargestAmong{
