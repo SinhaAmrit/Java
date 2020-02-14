@@ -5,7 +5,7 @@ package Learning;
 import java.util.Scanner;
 /**
  * @author CodiiZone
- * Q.2> Java Program To Take User Input And Add Them
+ * Java Program To Take User Input And Add Them
  */
 public class AddNum {
 	public static void main(String[] args) {
