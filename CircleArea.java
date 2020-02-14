@@ -4,7 +4,7 @@
 * GitHub : SinhaAmrit
 * Facebook : /codiizone
 * Instagram : @codiizone
-* wesite : https://codiizone.blogspot.com/
+* website : https://codiizone.blogspot.com/
 * Java Program to Accept Radius And Print The Area Of The Circle
 */
 import java.util.Scanner;
