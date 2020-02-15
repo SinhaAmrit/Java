@@ -4,7 +4,7 @@
 * GitHub : SinhaAmrit
 * Facebook : /codiizone
 * Instagram : @codiizone
-* website : https://codiizone.blogspot.com/
+* website : https:/codiizone.blogspot.com/
 * Java Program To Calculate The Area.
 */
 import java.util.Scanner;
