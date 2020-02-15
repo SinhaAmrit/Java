@@ -83,7 +83,7 @@ class Calculator
 out.println(x + "%" + y + "=" + sum);
                         break;
                     case 6:
-                   sum = calc.pow(x, y)
+                   sum = calc.pow(x, y);
             System.out.printf("The answer is %d\n\n", sum);
                         out.println(x + "^" + y + "=" + sum);
                         break;
